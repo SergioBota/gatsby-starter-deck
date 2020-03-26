@@ -1,6 +1,6 @@
-# Gatsby Deck
+# WebGL
 
-Create presentations using Gatsby & React.
+Create 2D, 3D, AR and VR expiriences using the WEB.
 
 ---
 
