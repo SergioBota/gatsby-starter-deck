@@ -1,6 +1,6 @@
 # WebGL
 
-Create 2D, 3D, AR and VR expiriences using the WEB.
+Create 2D, 3D, AR and VR experiences using the WEB.
 
 ---
 
